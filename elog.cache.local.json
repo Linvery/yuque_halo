@@ -1,0 +1,2039 @@
+{
+  "docs": [
+    {
+      "id": 158485284,
+      "doc_id": "tgg17gpuppzo0icl",
+      "updated": 1755622602000,
+      "properties": {
+        "title": "2.3域信任",
+        "urlname": "tgg17gpuppzo0icl",
+        "date": "2024-02-12 17:38:36",
+        "updated": "2025-08-20 00:56:42",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1707731807646-13b7597f-be2a-434d-9d08-1502f4232f56.png"
+      },
+      "catalog": [
+        {
+          "title": "第 2 章 域基础知识",
+          "doc_id": "tgg17gpuppzo0icl"
+        }
+      ],
+      "realName": "2.3域信任",
+      "relativePath": "/2.3域信任.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 158940438,
+      "doc_id": "qy4ig5bpzm77pw3y",
+      "updated": 1755622606000,
+      "properties": {
+        "title": "2.4 SSL LDAP搭建",
+        "urlname": "qy4ig5bpzm77pw3y",
+        "date": "2024-02-20 01:14:14",
+        "updated": "2025-08-20 00:56:46",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1708362956797-619a5e5a-afdb-42a8-9f6c-7d9d6c793468.png"
+      },
+      "catalog": [
+        {
+          "title": "第 2 章 域基础知识",
+          "doc_id": "qy4ig5bpzm77pw3y"
+        }
+      ],
+      "realName": "2.4 SSL LDAP搭建",
+      "relativePath": "/2.4 SSL LDAP搭建.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 158481674,
+      "doc_id": "ed3lgbygi12covn5",
+      "updated": 1755622600000,
+      "properties": {
+        "title": "2.2 工作组和域",
+        "urlname": "ed3lgbygi12covn5",
+        "date": "2024-02-12 15:46:32",
+        "updated": "2025-08-20 00:56:40",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1707724767348-67afb946-6662-44d5-b85d-524a940639e7.png"
+      },
+      "catalog": [
+        {
+          "title": "第 2 章 域基础知识",
+          "doc_id": "ed3lgbygi12covn5"
+        }
+      ],
+      "realName": "2.2 工作组和域",
+      "relativePath": "/2.2 工作组和域.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 158270283,
+      "doc_id": "wmzv3a8pqacozu6c",
+      "updated": 1755622588000,
+      "properties": {
+        "title": "1.2 Kerberos协议",
+        "urlname": "wmzv3a8pqacozu6c",
+        "date": "2024-02-06 23:08:02",
+        "updated": "2025-08-20 00:56:28",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1707232884067-8e1745f7-4803-4bd9-a0f3-6ac8666e607e.png"
+      },
+      "catalog": [
+        {
+          "title": "第1章 Windows协议",
+          "doc_id": "wmzv3a8pqacozu6c"
+        }
+      ],
+      "realName": "1.2 Kerberos协议",
+      "relativePath": "/1.2 Kerberos协议.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 158368260,
+      "doc_id": "fw196zbug12hgz6l",
+      "updated": 1755622595000,
+      "properties": {
+        "title": "1.3 LDAP",
+        "urlname": "fw196zbug12hgz6l",
+        "date": "2024-02-08 16:33:10",
+        "updated": "2025-08-20 00:56:35"
+      },
+      "catalog": [
+        {
+          "title": "第1章 Windows协议",
+          "doc_id": "fw196zbug12hgz6l"
+        }
+      ],
+      "realName": "1.3 LDAP",
+      "relativePath": "/1.3 LDAP.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 158480448,
+      "doc_id": "oxmhyaqo882euzr6",
+      "updated": 1755622597000,
+      "properties": {
+        "title": "2.1 域常见名词",
+        "urlname": "oxmhyaqo882euzr6",
+        "date": "2024-02-12 15:05:47",
+        "updated": "2025-08-20 00:56:37"
+      },
+      "catalog": [
+        {
+          "title": "第 2 章 域基础知识",
+          "doc_id": "oxmhyaqo882euzr6"
+        }
+      ],
+      "realName": "2.1 域常见名词",
+      "relativePath": "/2.1 域常见名词.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 158021858,
+      "doc_id": "iw3dv0e77b7f9ksg",
+      "updated": 1755622584000,
+      "properties": {
+        "title": "1.1 LM、NTLM协议",
+        "urlname": "iw3dv0e77b7f9ksg",
+        "date": "2024-02-04 02:10:55",
+        "updated": "2025-08-20 00:56:24",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1707032196574-dcd994a2-899c-4ca0-a78d-5baca34c01a6.png"
+      },
+      "catalog": [
+        {
+          "title": "第1章 Windows协议",
+          "doc_id": "iw3dv0e77b7f9ksg"
+        }
+      ],
+      "realName": "1.1 LM、NTLM协议",
+      "relativePath": "/1.1 LM、NTLM协议.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 228165715,
+      "doc_id": "vr3cy1oa31w3nh95",
+      "updated": 1753434350000,
+      "properties": {
+        "title": "6.6 域权限维持之重置DSRM密码",
+        "urlname": "vr3cy1oa31w3nh95",
+        "date": "2025-07-16 00:18:02",
+        "updated": "2025-07-25 17:05:50"
+      },
+      "catalog": [
+        {
+          "title": "第6章 域权限维持与后渗透密码收集",
+          "doc_id": "vr3cy1oa31w3nh95"
+        }
+      ],
+      "realName": "6.6 域权限维持之重置DSRM密码",
+      "relativePath": "/6.6 域权限维持之重置DSRM密码.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 228469656,
+      "doc_id": "xfntbqz0sot6zr31",
+      "updated": 1753223322000,
+      "properties": {
+        "title": "6.11 后渗透密码收集之注入SSP",
+        "urlname": "xfntbqz0sot6zr31",
+        "date": "2025-07-17 20:05:55",
+        "updated": "2025-07-23 06:28:42",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/2420162/1752754233600-5c134579-f3ff-4580-8a37-67055aa253f9.png"
+      },
+      "catalog": [
+        {
+          "title": "第6章 域权限维持与后渗透密码收集",
+          "doc_id": "xfntbqz0sot6zr31"
+        }
+      ],
+      "realName": "6.11 后渗透密码收集之注入SSP",
+      "relativePath": "/6.11 后渗透密码收集之注入SSP.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 228457127,
+      "doc_id": "hsro1gedo0ae1kmd",
+      "updated": 1752799015000,
+      "properties": {
+        "title": "6.10 后渗透密码收集之 Hook PasswordChangeNotify",
+        "urlname": "hsro1gedo0ae1kmd",
+        "date": "2025-07-17 17:44:45",
+        "updated": "2025-07-18 08:36:55"
+      },
+      "catalog": [
+        {
+          "title": "第6章 域权限维持与后渗透密码收集",
+          "doc_id": "hsro1gedo0ae1kmd"
+        }
+      ],
+      "realName": "6.10 后渗透密码收集之 Hook PasswordChangeNotify",
+      "relativePath": "/6.10 后渗透密码收集之 Hook PasswordChangeNotify.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 228456082,
+      "doc_id": "dx8g4r6nxib1tgs7",
+      "updated": 1753061277000,
+      "properties": {
+        "title": "6.9 域权限维持之伪造域控",
+        "urlname": "dx8g4r6nxib1tgs7",
+        "date": "2025-07-17 17:36:20",
+        "updated": "2025-07-21 09:27:57"
+      },
+      "catalog": [
+        {
+          "title": "第6章 域权限维持与后渗透密码收集",
+          "doc_id": "dx8g4r6nxib1tgs7"
+        }
+      ],
+      "realName": "6.9 域权限维持之伪造域控",
+      "relativePath": "/6.9 域权限维持之伪造域控.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 228167952,
+      "doc_id": "ls2cv0k2r9texd1y",
+      "updated": 1752750422000,
+      "properties": {
+        "title": "6.8 域权限维持之ACL滥用",
+        "urlname": "ls2cv0k2r9texd1y",
+        "date": "2025-07-16 01:41:09",
+        "updated": "2025-07-17 19:07:02",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/2420162/1752693193058-abdc5530-abc7-44d9-8f0f-391c7b2bba1a.png"
+      },
+      "catalog": [
+        {
+          "title": "第6章 域权限维持与后渗透密码收集",
+          "doc_id": "ls2cv0k2r9texd1y"
+        }
+      ],
+      "realName": "6.8 域权限维持之ACL滥用",
+      "relativePath": "/6.8 域权限维持之ACL滥用.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 228165320,
+      "doc_id": "dpiy0rhmbg737k4e",
+      "updated": 1753435973000,
+      "properties": {
+        "title": "6.5 域权限维持之SID History滥用",
+        "urlname": "dpiy0rhmbg737k4e",
+        "date": "2025-07-16 00:08:55",
+        "updated": "2025-07-25 17:32:53"
+      },
+      "catalog": [
+        {
+          "title": "第6章 域权限维持与后渗透密码收集",
+          "doc_id": "dpiy0rhmbg737k4e"
+        }
+      ],
+      "realName": "6.5 域权限维持之SID History滥用",
+      "relativePath": "/6.5 域权限维持之SID History滥用.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 228025461,
+      "doc_id": "ca8n9cdp2tfumtai",
+      "updated": 1752801052000,
+      "properties": {
+        "title": "6.4 域权限维持之Skeleton Key",
+        "urlname": "ca8n9cdp2tfumtai",
+        "date": "2025-07-15 03:26:26",
+        "updated": "2025-07-18 09:10:52",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/2420162/1752595721087-27e90f2d-f898-4acf-9749-41c00dbc9d3c.png"
+      },
+      "catalog": [
+        {
+          "title": "第6章 域权限维持与后渗透密码收集",
+          "doc_id": "ca8n9cdp2tfumtai"
+        }
+      ],
+      "realName": "6.4 域权限维持之Skeleton Key",
+      "relativePath": "/6.4 域权限维持之Skeleton Key.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 227650099,
+      "doc_id": "so2ggxyhe7k2uto5",
+      "updated": 1752506406000,
+      "properties": {
+        "title": "6.3 域权限维持之DCShadow",
+        "urlname": "so2ggxyhe7k2uto5",
+        "date": "2025-07-12 01:13:18",
+        "updated": "2025-07-14 23:20:06"
+      },
+      "catalog": [
+        {
+          "title": "第6章 域权限维持与后渗透密码收集",
+          "doc_id": "so2ggxyhe7k2uto5"
+        }
+      ],
+      "realName": "6.3 域权限维持之DCShadow",
+      "relativePath": "/6.3 域权限维持之DCShadow.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 228166649,
+      "doc_id": "qyk8q2re78hme1gf",
+      "updated": 1752744387000,
+      "properties": {
+        "title": "6.7 域权限维持之AdminSDHolder滥用",
+        "urlname": "qyk8q2re78hme1gf",
+        "date": "2025-07-16 00:44:11",
+        "updated": "2025-07-17 17:26:27"
+      },
+      "catalog": [
+        {
+          "title": "第6章 域权限维持与后渗透密码收集",
+          "doc_id": "qyk8q2re78hme1gf"
+        }
+      ],
+      "realName": "6.7 域权限维持之AdminSDHolder滥用",
+      "relativePath": "/6.7 域权限维持之AdminSDHolder滥用.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 227527223,
+      "doc_id": "htaeszzkcrs1h7u8",
+      "updated": 1752253998000,
+      "properties": {
+        "title": "6.2 域权限维持之委派",
+        "urlname": "htaeszzkcrs1h7u8",
+        "date": "2025-07-11 03:12:58",
+        "updated": "2025-07-12 01:13:18"
+      },
+      "catalog": [
+        {
+          "title": "第6章 域权限维持与后渗透密码收集",
+          "doc_id": "htaeszzkcrs1h7u8"
+        }
+      ],
+      "realName": "6.2 域权限维持之委派",
+      "relativePath": "/6.2 域权限维持之委派.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 227524896,
+      "doc_id": "ghbbrqw59axoo0ym",
+      "updated": 1752213480000,
+      "properties": {
+        "title": "6.1 域权限维持之票据传递",
+        "urlname": "ghbbrqw59axoo0ym",
+        "date": "2025-07-11 02:06:25",
+        "updated": "2025-07-11 13:58:00"
+      },
+      "catalog": [
+        {
+          "title": "第6章 域权限维持与后渗透密码收集",
+          "doc_id": "ghbbrqw59axoo0ym"
+        }
+      ],
+      "realName": "6.1 域权限维持之票据传递",
+      "relativePath": "/6.1 域权限维持之票据传递.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 227524871,
+      "doc_id": "snr8zzn2d6dzn50g",
+      "updated": 1752170780000,
+      "properties": {
+        "title": "第6章 域权限维持与后渗透密码收集",
+        "urlname": "snr8zzn2d6dzn50g",
+        "date": "2025-07-11 02:04:30",
+        "updated": "2025-07-11 02:06:20"
+      },
+      "catalog": [],
+      "realName": "第6章 域权限维持与后渗透密码收集",
+      "relativePath": "/第6章 域权限维持与后渗透密码收集.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 227345648,
+      "doc_id": "dsc927pgb0b4gzcb",
+      "updated": 1753118334000,
+      "properties": {
+        "title": "5.7 Exchange ProxyLogon攻击利用链",
+        "urlname": "dsc927pgb0b4gzcb",
+        "date": "2025-07-10 01:23:52",
+        "updated": "2025-07-22 01:18:54"
+      },
+      "catalog": [
+        {
+          "title": "第5章 域内漏洞和利用",
+          "doc_id": "dsc927pgb0b4gzcb"
+        }
+      ],
+      "realName": "5.7 Exchange ProxyLogon攻击利用链",
+      "relativePath": "/5.7 Exchange ProxyLogon攻击利用链.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 227499893,
+      "doc_id": "xq9ue6rg9333dwea",
+      "updated": 1755511649000,
+      "properties": {
+        "title": "5.8 Exchange ProxyShell 攻击利用链",
+        "urlname": "xq9ue6rg9333dwea",
+        "date": "2025-07-10 22:59:38",
+        "updated": "2025-08-18 18:07:29"
+      },
+      "catalog": [
+        {
+          "title": "第5章 域内漏洞和利用",
+          "doc_id": "xq9ue6rg9333dwea"
+        }
+      ],
+      "realName": "5.8 Exchange ProxyShell 攻击利用链",
+      "relativePath": "/5.8 Exchange ProxyShell 攻击利用链.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 226787440,
+      "doc_id": "smmwcfbvuhdgi8zg",
+      "updated": 1753118334000,
+      "properties": {
+        "title": "5.6 CVE-2021-42287 权限提升漏洞",
+        "urlname": "smmwcfbvuhdgi8zg",
+        "date": "2025-07-06 08:47:36",
+        "updated": "2025-07-22 01:18:54"
+      },
+      "catalog": [
+        {
+          "title": "第5章 域内漏洞和利用",
+          "doc_id": "smmwcfbvuhdgi8zg"
+        }
+      ],
+      "realName": "5.6 CVE-2021-42287 权限提升漏洞",
+      "relativePath": "/5.6 CVE-2021-42287 权限提升漏洞.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 225382055,
+      "doc_id": "dsiv5c8164swk3qr",
+      "updated": 1751439964000,
+      "properties": {
+        "title": "5.4 Windows Print Spooler权限提升漏洞",
+        "urlname": "dsiv5c8164swk3qr",
+        "date": "2025-06-25 23:01:19",
+        "updated": "2025-07-02 15:06:04"
+      },
+      "catalog": [
+        {
+          "title": "第5章 域内漏洞和利用",
+          "doc_id": "dsiv5c8164swk3qr"
+        }
+      ],
+      "realName": "5.4 Windows Print Spooler权限提升漏洞",
+      "relativePath": "/5.4 Windows Print Spooler权限提升漏洞.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 225234501,
+      "doc_id": "tuqyhnu61h6di9yx",
+      "updated": 1750900208000,
+      "properties": {
+        "title": "5.3 CVE-2020-1472 NetLogon 权限提升漏洞",
+        "urlname": "tuqyhnu61h6di9yx",
+        "date": "2025-06-25 02:28:54",
+        "updated": "2025-06-26 09:10:08"
+      },
+      "catalog": [
+        {
+          "title": "第5章 域内漏洞和利用",
+          "doc_id": "tuqyhnu61h6di9yx"
+        }
+      ],
+      "realName": "5.3 CVE-2020-1472 NetLogon 权限提升漏洞",
+      "relativePath": "/5.3 CVE-2020-1472 NetLogon 权限提升漏洞.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 225526675,
+      "doc_id": "ut1counfay4ux1h4",
+      "updated": 1751995127000,
+      "properties": {
+        "title": "5.5 ADCS攻击",
+        "urlname": "ut1counfay4ux1h4",
+        "date": "2025-06-26 20:56:55",
+        "updated": "2025-07-09 01:18:47",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/2420162/1751107593521-75ab64f6-59b5-46c8-9b60-283c58a394e2.png"
+      },
+      "catalog": [
+        {
+          "title": "第5章 域内漏洞和利用",
+          "doc_id": "ut1counfay4ux1h4"
+        }
+      ],
+      "realName": "5.5 ADCS攻击",
+      "relativePath": "/5.5 ADCS攻击.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 222321264,
+      "doc_id": "ceduocu5s8opywdo",
+      "updated": 1750789732000,
+      "properties": {
+        "title": "5.2 CVE-2019-1040 NTLM MIC绕过漏洞",
+        "urlname": "ceduocu5s8opywdo",
+        "date": "2025-06-04 00:06:33",
+        "updated": "2025-06-25 02:28:52"
+      },
+      "catalog": [
+        {
+          "title": "第5章 域内漏洞和利用",
+          "doc_id": "ceduocu5s8opywdo"
+        }
+      ],
+      "realName": "5.2 CVE-2019-1040 NTLM MIC绕过漏洞",
+      "relativePath": "/5.2 CVE-2019-1040 NTLM MIC绕过漏洞.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 221532413,
+      "doc_id": "uhsu4ogfmgrwpqz8",
+      "updated": 1749025461000,
+      "properties": {
+        "title": "5.1 MS14-068 权限提升漏洞",
+        "urlname": "uhsu4ogfmgrwpqz8",
+        "date": "2025-05-28 10:22:31",
+        "updated": "2025-06-04 16:24:21"
+      },
+      "catalog": [
+        {
+          "title": "第5章 域内漏洞和利用",
+          "doc_id": "uhsu4ogfmgrwpqz8"
+        }
+      ],
+      "realName": "5.1 MS14-068 权限提升漏洞",
+      "relativePath": "/5.1 MS14-068 权限提升漏洞.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 221532468,
+      "doc_id": "nzzmfd0is8qqp49v",
+      "updated": 1752489139000,
+      "properties": {
+        "title": "4.11 域林渗透",
+        "urlname": "nzzmfd0is8qqp49v",
+        "date": "2025-05-28 10:22:59",
+        "updated": "2025-07-14 18:32:19"
+      },
+      "catalog": [
+        {
+          "title": "第4章 域内渗透手法",
+          "doc_id": "nzzmfd0is8qqp49v"
+        }
+      ],
+      "realName": "4.11 域林渗透",
+      "relativePath": "/4.11 域林渗透.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 217385977,
+      "doc_id": "ngcguguopng1s3br",
+      "updated": 1748837431000,
+      "properties": {
+        "title": "4.8 滥用DCSync",
+        "urlname": "ngcguguopng1s3br",
+        "date": "2025-04-27 21:20:28",
+        "updated": "2025-06-02 12:10:31",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/2420162/1745854811375-d8aae59e-f255-4857-9f21-e0393e735e44.png"
+      },
+      "catalog": [
+        {
+          "title": "第4章 域内渗透手法",
+          "doc_id": "ngcguguopng1s3br"
+        }
+      ],
+      "realName": "4.8 滥用DCSync",
+      "relativePath": "/4.8 滥用DCSync.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 221532406,
+      "doc_id": "uwxsi6a0pu3034z3",
+      "updated": 1749109184000,
+      "properties": {
+        "title": "第5章 域内漏洞和利用",
+        "urlname": "uwxsi6a0pu3034z3",
+        "date": "2025-05-28 10:22:28",
+        "updated": "2025-06-05 15:39:44"
+      },
+      "catalog": [],
+      "realName": "第5章 域内漏洞和利用",
+      "relativePath": "/第5章 域内漏洞和利用.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 217560746,
+      "doc_id": "yr7ilt6t1cnzo18r",
+      "updated": 1748511209000,
+      "properties": {
+        "title": "4.9 PTH",
+        "urlname": "yr7ilt6t1cnzo18r",
+        "date": "2025-04-29 00:15:19",
+        "updated": "2025-05-29 17:33:29",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/2420162/1745858443117-480ea43b-b555-4af2-ad35-b436d8ad5415.png"
+      },
+      "catalog": [
+        {
+          "title": "第4章 域内渗透手法",
+          "doc_id": "yr7ilt6t1cnzo18r"
+        }
+      ],
+      "realName": "4.9 PTH",
+      "relativePath": "/4.9 PTH.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 219621061,
+      "doc_id": "of6o1kevrpgzhy89",
+      "updated": 1748398968000,
+      "properties": {
+        "title": "4.10 定位用户登陆的主机",
+        "urlname": "of6o1kevrpgzhy89",
+        "date": "2025-05-14 22:32:26",
+        "updated": "2025-05-28 10:22:48"
+      },
+      "catalog": [
+        {
+          "title": "第4章 域内渗透手法",
+          "doc_id": "of6o1kevrpgzhy89"
+        }
+      ],
+      "realName": "4.10 定位用户登陆的主机",
+      "relativePath": "/4.10 定位用户登陆的主机.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 216056903,
+      "doc_id": "ndy0n2xiopggf9ha",
+      "updated": 1744993570000,
+      "properties": {
+        "title": "4.6 Kerberos Bronze Bit 漏洞",
+        "urlname": "ndy0n2xiopggf9ha",
+        "date": "2025-04-18 23:19:06",
+        "updated": "2025-04-19 00:26:10",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/2420162/1744989637292-ef2165cf-1024-4def-b2d5-20716670a42e.png"
+      },
+      "catalog": [
+        {
+          "title": "第4章 域内渗透手法",
+          "doc_id": "ndy0n2xiopggf9ha"
+        }
+      ],
+      "realName": "4.6 Kerberos Bronze Bit 漏洞",
+      "relativePath": "/4.6 Kerberos Bronze Bit 漏洞.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 216609934,
+      "doc_id": "knz646kpqa7abmye",
+      "updated": 1745760030000,
+      "properties": {
+        "title": "4.7 NTLM Relay",
+        "urlname": "knz646kpqa7abmye",
+        "date": "2025-04-22 21:21:34",
+        "updated": "2025-04-27 21:20:30",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/webp/2420162/1745328209270-3c598a25-ed37-4fa7-bbc0-d11ced330e5f.webp"
+      },
+      "catalog": [
+        {
+          "title": "第4章 域内渗透手法",
+          "doc_id": "knz646kpqa7abmye"
+        }
+      ],
+      "realName": "4.7 NTLM Relay",
+      "relativePath": "/4.7 NTLM Relay.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 184244242,
+      "doc_id": "zsskgmu5lk7t56iq",
+      "updated": 1744990503000,
+      "properties": {
+        "title": "4.5 委派",
+        "urlname": "zsskgmu5lk7t56iq",
+        "date": "2024-08-29 00:58:54",
+        "updated": "2025-04-18 23:35:03",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/jpeg/2420162/1724864954193-f2748db0-30a8-467d-a50e-2aaa4b425b9f.jpeg"
+      },
+      "catalog": [
+        {
+          "title": "第4章 域内渗透手法",
+          "doc_id": "zsskgmu5lk7t56iq"
+        }
+      ],
+      "realName": "4.5 委派",
+      "relativePath": "/4.5 委派.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 182800627,
+      "doc_id": "wvzzeggas496dfs2",
+      "updated": 1736829401000,
+      "properties": {
+        "title": "4.1 域内用户名枚举",
+        "urlname": "wvzzeggas496dfs2",
+        "date": "2024-08-19 00:30:15",
+        "updated": "2025-01-14 12:36:41",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1724001164929-e1682aa1-cac8-4403-938c-e15997ee69b9.png"
+      },
+      "catalog": [
+        {
+          "title": "第4章 域内渗透手法",
+          "doc_id": "wvzzeggas496dfs2"
+        }
+      ],
+      "realName": "4.1 域内用户名枚举",
+      "relativePath": "/4.1 域内用户名枚举.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 166525128,
+      "doc_id": "hn6gy4r62klfoofb",
+      "updated": 1751136151000,
+      "properties": {
+        "title": "3.10 Impacket",
+        "urlname": "hn6gy4r62klfoofb",
+        "date": "2024-04-21 03:30:34",
+        "updated": "2025-06-29 02:42:31"
+      },
+      "catalog": [
+        {
+          "title": "第3章 域内工具的使用",
+          "doc_id": "hn6gy4r62klfoofb"
+        }
+      ],
+      "realName": "3.10 Impacket",
+      "relativePath": "/3.10 Impacket.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 183687632,
+      "doc_id": "guglhnlq1osbkcur",
+      "updated": 1724526340000,
+      "properties": {
+        "title": "4.4 Kerberoasting",
+        "urlname": "guglhnlq1osbkcur",
+        "date": "2024-08-25 01:36:07",
+        "updated": "2024-08-25 03:05:40",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1724526124525-0b8e1b66-c606-48da-82fd-1373b85ed9b1.png"
+      },
+      "catalog": [
+        {
+          "title": "第4章 域内渗透手法",
+          "doc_id": "guglhnlq1osbkcur"
+        }
+      ],
+      "realName": "4.4 Kerberoasting",
+      "relativePath": "/4.4 Kerberoasting.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 183275609,
+      "doc_id": "tbhvkm1nnchyeevk",
+      "updated": 1724520968000,
+      "properties": {
+        "title": "4.3 AS-REP Roasting",
+        "urlname": "tbhvkm1nnchyeevk",
+        "date": "2024-08-21 21:43:57",
+        "updated": "2024-08-25 01:36:08",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1724248627647-0ab33b1d-46dc-4f64-b27c-5b0a9e3a949f.png"
+      },
+      "catalog": [
+        {
+          "title": "第4章 域内渗透手法",
+          "doc_id": "tbhvkm1nnchyeevk"
+        }
+      ],
+      "realName": "4.3 AS-REP Roasting",
+      "relativePath": "/4.3 AS-REP Roasting.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 182844844,
+      "doc_id": "kslnymvi5w4tdiq0",
+      "updated": 1724161107000,
+      "properties": {
+        "title": "4.2 域内密码喷洒",
+        "urlname": "kslnymvi5w4tdiq0",
+        "date": "2024-08-19 10:18:02",
+        "updated": "2024-08-20 21:38:27",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1724091748532-80b16f11-e9f9-4a6b-a8d0-a15e2334d916.png"
+      },
+      "catalog": [
+        {
+          "title": "第4章 域内渗透手法",
+          "doc_id": "kslnymvi5w4tdiq0"
+        }
+      ],
+      "realName": "4.2 域内密码喷洒",
+      "relativePath": "/4.2 域内密码喷洒.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 166525040,
+      "doc_id": "vhyueq0inbh6gfgx",
+      "updated": 1713641434000,
+      "properties": {
+        "title": "3.9 mimikatz",
+        "urlname": "vhyueq0inbh6gfgx",
+        "date": "2024-04-21 03:18:32",
+        "updated": "2024-04-21 03:30:34"
+      },
+      "catalog": [
+        {
+          "title": "第3章 域内工具的使用",
+          "doc_id": "vhyueq0inbh6gfgx"
+        }
+      ],
+      "realName": "3.9 mimikatz",
+      "relativePath": "/3.9 mimikatz.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 164649064,
+      "doc_id": "rtt15pku5nel64aa",
+      "updated": 1713625709000,
+      "properties": {
+        "title": "3.8 Rubeus",
+        "urlname": "rtt15pku5nel64aa",
+        "date": "2024-04-08 10:01:25",
+        "updated": "2024-04-20 23:08:29",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1713365190694-1b5ec6b0-6d8e-4ad4-8d2e-ed3269081823.png"
+      },
+      "catalog": [
+        {
+          "title": "第3章 域内工具的使用",
+          "doc_id": "rtt15pku5nel64aa"
+        }
+      ],
+      "realName": "3.8 Rubeus",
+      "relativePath": "/3.8 Rubeus.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 164421070,
+      "doc_id": "exg0055a76ux7s1g",
+      "updated": 1713364643000,
+      "properties": {
+        "title": "3.7 Kekeo",
+        "urlname": "exg0055a76ux7s1g",
+        "date": "2024-04-06 02:36:37",
+        "updated": "2024-04-17 22:37:23",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1712343257434-1831d497-6add-4ad1-b978-0357fb1f000d.png"
+      },
+      "catalog": [
+        {
+          "title": "第3章 域内工具的使用",
+          "doc_id": "exg0055a76ux7s1g"
+        }
+      ],
+      "realName": "3.7 Kekeo",
+      "relativePath": "/3.7 Kekeo.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 164420897,
+      "doc_id": "picplq1hqwq6xn6l",
+      "updated": 1712341492000,
+      "properties": {
+        "title": "3.6 PingCastle",
+        "urlname": "picplq1hqwq6xn6l",
+        "date": "2024-04-06 02:18:25",
+        "updated": "2024-04-06 02:24:52",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1712341351005-579499b3-99b3-47db-92e9-5812ddb8fd98.png"
+      },
+      "catalog": [
+        {
+          "title": "第3章 域内工具的使用",
+          "doc_id": "picplq1hqwq6xn6l"
+        }
+      ],
+      "realName": "3.6 PingCastle",
+      "relativePath": "/3.6 PingCastle.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 164420783,
+      "doc_id": "cwwwy1yvfnn74lz3",
+      "updated": 1712341106000,
+      "properties": {
+        "title": "3.5 ldapsearch",
+        "urlname": "cwwwy1yvfnn74lz3",
+        "date": "2024-04-06 02:09:58",
+        "updated": "2024-04-06 02:18:26"
+      },
+      "catalog": [
+        {
+          "title": "第3章 域内工具的使用",
+          "doc_id": "cwwwy1yvfnn74lz3"
+        }
+      ],
+      "realName": "3.5 ldapsearch",
+      "relativePath": "/3.5 ldapsearch.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 164420724,
+      "doc_id": "ux9a321fs51abfcm",
+      "updated": 1712340536000,
+      "properties": {
+        "title": "3.4 ldp",
+        "urlname": "ux9a321fs51abfcm",
+        "date": "2024-04-06 02:04:56",
+        "updated": "2024-04-06 02:08:56",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1712340398472-e81ab8cd-651b-4e83-ad00-bc4a427150aa.png"
+      },
+      "catalog": [
+        {
+          "title": "第3章 域内工具的使用",
+          "doc_id": "ux9a321fs51abfcm"
+        }
+      ],
+      "realName": "3.4 ldp",
+      "relativePath": "/3.4 ldp.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 164392845,
+      "doc_id": "otr5upu06m9fxom5",
+      "updated": 1712308184000,
+      "properties": {
+        "title": "3.3 Admod",
+        "urlname": "otr5upu06m9fxom5",
+        "date": "2024-04-05 16:53:19",
+        "updated": "2024-04-05 17:09:44"
+      },
+      "catalog": [
+        {
+          "title": "第3章 域内工具的使用",
+          "doc_id": "otr5upu06m9fxom5"
+        }
+      ],
+      "realName": "3.3 Admod",
+      "relativePath": "/3.3 Admod.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 164392267,
+      "doc_id": "cyk5s9kbarbfcsgo",
+      "updated": 1712307399000,
+      "properties": {
+        "title": "3.2 Adfind",
+        "urlname": "cyk5s9kbarbfcsgo",
+        "date": "2024-04-05 16:45:23",
+        "updated": "2024-04-05 16:56:39"
+      },
+      "catalog": [
+        {
+          "title": "第3章 域内工具的使用",
+          "doc_id": "cyk5s9kbarbfcsgo"
+        }
+      ],
+      "realName": "3.2 Adfind",
+      "relativePath": "/3.2 Adfind.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 164385661,
+      "doc_id": "urbek05lalcek8zd",
+      "updated": 1712306491000,
+      "properties": {
+        "title": "3.1 BloodHound的使用",
+        "urlname": "urbek05lalcek8zd",
+        "date": "2024-04-05 15:10:46",
+        "updated": "2024-04-05 16:41:31",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1712303573379-3d581b50-0e1d-4819-8d55-ecfb3840086f.png"
+      },
+      "catalog": [
+        {
+          "title": "第3章 域内工具的使用",
+          "doc_id": "urbek05lalcek8zd"
+        }
+      ],
+      "realName": "3.1 BloodHound的使用",
+      "relativePath": "/3.1 BloodHound的使用.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 164385515,
+      "doc_id": "ktpxkn7xw6op5byl",
+      "updated": 1712300940000,
+      "properties": {
+        "title": "第3章 域内工具的使用",
+        "urlname": "ktpxkn7xw6op5byl",
+        "date": "2024-04-05 15:08:42",
+        "updated": "2024-04-05 15:09:00"
+      },
+      "catalog": [],
+      "realName": "第3章 域内工具的使用",
+      "relativePath": "/第3章 域内工具的使用.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 164361677,
+      "doc_id": "ht4wu823flgl6q9d",
+      "updated": 1712300860000,
+      "properties": {
+        "title": "2.10 域中的访问控制列表",
+        "urlname": "ht4wu823flgl6q9d",
+        "date": "2024-04-05 02:26:22",
+        "updated": "2024-04-05 15:07:40",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1712255500733-e116f925-d64f-4a53-8078-7742895f971d.png"
+      },
+      "catalog": [
+        {
+          "title": "第 2 章 域基础知识",
+          "doc_id": "ht4wu823flgl6q9d"
+        }
+      ],
+      "realName": "2.10 域中的访问控制列表",
+      "relativePath": "/2.10 域中的访问控制列表.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 159452365,
+      "doc_id": "rr35aqufxc7ngkkm",
+      "updated": 1712255183000,
+      "properties": {
+        "title": "2.9 域中的组策略",
+        "urlname": "rr35aqufxc7ngkkm",
+        "date": "2024-02-24 14:28:49",
+        "updated": "2024-04-05 02:26:23",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1708910227525-74756dc6-f3d2-4b22-af72-94b364b61a81.png"
+      },
+      "catalog": [
+        {
+          "title": "第 2 章 域基础知识",
+          "doc_id": "rr35aqufxc7ngkkm"
+        }
+      ],
+      "realName": "2.9 域中的组策略",
+      "relativePath": "/2.9 域中的组策略.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 159314595,
+      "doc_id": "ksxzdgp5vlf75usr",
+      "updated": 1708934507000,
+      "properties": {
+        "title": "2.7 目录分区",
+        "urlname": "ksxzdgp5vlf75usr",
+        "date": "2024-02-22 23:28:43",
+        "updated": "2024-02-26 16:01:47",
+        "cover": "https://intranetproxy.alipay.com/skylark/lark/0/2022/jpeg/14156358/1643091747291-b480f5c3-522d-4e82-bb6d-4f2be770d5e6.jpeg"
+      },
+      "catalog": [
+        {
+          "title": "第 2 章 域基础知识",
+          "doc_id": "ksxzdgp5vlf75usr"
+        }
+      ],
+      "realName": "2.7 目录分区",
+      "relativePath": "/2.7 目录分区.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 159411865,
+      "doc_id": "blc9fltvtgumdlx0",
+      "updated": 1708934463000,
+      "properties": {
+        "title": "2.8 服务主体名称",
+        "urlname": "blc9fltvtgumdlx0",
+        "date": "2024-02-23 18:25:57",
+        "updated": "2024-02-26 16:01:03"
+      },
+      "catalog": [
+        {
+          "title": "第 2 章 域基础知识",
+          "doc_id": "blc9fltvtgumdlx0"
+        }
+      ],
+      "realName": "2.8 服务主体名称",
+      "relativePath": "/2.8 服务主体名称.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 158941380,
+      "doc_id": "velfrfcm52bfbxtz",
+      "updated": 1708933024000,
+      "properties": {
+        "title": "2.6 本地组和域组",
+        "urlname": "velfrfcm52bfbxtz",
+        "date": "2024-02-20 02:30:36",
+        "updated": "2024-02-26 15:37:04",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1708367550692-614889cf-f568-4552-a463-6d86afabb1d9.png"
+      },
+      "catalog": [
+        {
+          "title": "第 2 章 域基础知识",
+          "doc_id": "velfrfcm52bfbxtz"
+        }
+      ],
+      "realName": "2.6 本地组和域组",
+      "relativePath": "/2.6 本地组和域组.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 158940585,
+      "doc_id": "blk9c4ogd4dhv665",
+      "updated": 1708367434000,
+      "properties": {
+        "title": "2.5 本地用户和活动目录账号",
+        "urlname": "blk9c4ogd4dhv665",
+        "date": "2024-02-20 01:24:35",
+        "updated": "2024-02-20 02:30:34",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1708365231201-6bc3c5c7-5fbd-4e80-9b36-de924710889d.png"
+      },
+      "catalog": [
+        {
+          "title": "第 2 章 域基础知识",
+          "doc_id": "blk9c4ogd4dhv665"
+        }
+      ],
+      "realName": "2.5 本地用户和活动目录账号",
+      "relativePath": "/2.5 本地用户和活动目录账号.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 158021854,
+      "doc_id": "qln3icdeyup6bvku",
+      "updated": 1707033407000,
+      "properties": {
+        "title": "第1章 Windows协议",
+        "urlname": "qln3icdeyup6bvku",
+        "date": "2024-02-04 02:10:33",
+        "updated": "2024-02-04 15:56:47"
+      },
+      "catalog": [],
+      "realName": "第1章 Windows协议",
+      "relativePath": "/第1章 Windows协议.md",
+      "docPath": "./docs"
+    }
+  ],
+  "catalog": [
+    {
+      "type": "DOC",
+      "title": "第6章 域权限维持与后渗透密码收集",
+      "uuid": "ZfjMjRyxO-ji4NgE",
+      "url": "snr8zzn2d6dzn50g",
+      "prev_uuid": "",
+      "sibling_uuid": "RcpIJZ-Z7n7PhZMG",
+      "child_uuid": "CMNBhlbjdQG0Dk4J",
+      "parent_uuid": "",
+      "doc_id": 227524871,
+      "level": 0,
+      "id": 227524871,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "6.11 后渗透密码收集之注入SSP",
+      "uuid": "CMNBhlbjdQG0Dk4J",
+      "url": "xfntbqz0sot6zr31",
+      "prev_uuid": "ZfjMjRyxO-ji4NgE",
+      "sibling_uuid": "HJ5Mumew85VYtQmA",
+      "child_uuid": "",
+      "parent_uuid": "ZfjMjRyxO-ji4NgE",
+      "doc_id": 228469656,
+      "level": 1,
+      "id": 228469656,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "6.10 后渗透密码收集之 Hook PasswordChangeNotify",
+      "uuid": "HJ5Mumew85VYtQmA",
+      "url": "hsro1gedo0ae1kmd",
+      "prev_uuid": "CMNBhlbjdQG0Dk4J",
+      "sibling_uuid": "5LPthRGTgs7bnRiQ",
+      "child_uuid": "",
+      "parent_uuid": "ZfjMjRyxO-ji4NgE",
+      "doc_id": 228457127,
+      "level": 1,
+      "id": 228457127,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "6.9 域权限维持之伪造域控",
+      "uuid": "5LPthRGTgs7bnRiQ",
+      "url": "dx8g4r6nxib1tgs7",
+      "prev_uuid": "HJ5Mumew85VYtQmA",
+      "sibling_uuid": "l76skcKwVMySJQlU",
+      "child_uuid": "",
+      "parent_uuid": "ZfjMjRyxO-ji4NgE",
+      "doc_id": 228456082,
+      "level": 1,
+      "id": 228456082,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "6.8 域权限维持之ACL滥用",
+      "uuid": "l76skcKwVMySJQlU",
+      "url": "ls2cv0k2r9texd1y",
+      "prev_uuid": "5LPthRGTgs7bnRiQ",
+      "sibling_uuid": "kNz_iqfDlCTBItK5",
+      "child_uuid": "",
+      "parent_uuid": "ZfjMjRyxO-ji4NgE",
+      "doc_id": 228167952,
+      "level": 1,
+      "id": 228167952,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "6.7 域权限维持之AdminSDHolder滥用",
+      "uuid": "kNz_iqfDlCTBItK5",
+      "url": "qyk8q2re78hme1gf",
+      "prev_uuid": "l76skcKwVMySJQlU",
+      "sibling_uuid": "9uCpVQIOYBGpHk35",
+      "child_uuid": "",
+      "parent_uuid": "ZfjMjRyxO-ji4NgE",
+      "doc_id": 228166649,
+      "level": 1,
+      "id": 228166649,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "6.6 域权限维持之重置DSRM密码",
+      "uuid": "9uCpVQIOYBGpHk35",
+      "url": "vr3cy1oa31w3nh95",
+      "prev_uuid": "kNz_iqfDlCTBItK5",
+      "sibling_uuid": "Cl1C7Kk7gnSn5Obd",
+      "child_uuid": "",
+      "parent_uuid": "ZfjMjRyxO-ji4NgE",
+      "doc_id": 228165715,
+      "level": 1,
+      "id": 228165715,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "6.5 域权限维持之SID History滥用",
+      "uuid": "Cl1C7Kk7gnSn5Obd",
+      "url": "dpiy0rhmbg737k4e",
+      "prev_uuid": "9uCpVQIOYBGpHk35",
+      "sibling_uuid": "gS7JNOGQeR_Ckw8Y",
+      "child_uuid": "",
+      "parent_uuid": "ZfjMjRyxO-ji4NgE",
+      "doc_id": 228165320,
+      "level": 1,
+      "id": 228165320,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "6.4 域权限维持之Skeleton Key",
+      "uuid": "gS7JNOGQeR_Ckw8Y",
+      "url": "ca8n9cdp2tfumtai",
+      "prev_uuid": "Cl1C7Kk7gnSn5Obd",
+      "sibling_uuid": "TzT2r_ae3QhCzvps",
+      "child_uuid": "",
+      "parent_uuid": "ZfjMjRyxO-ji4NgE",
+      "doc_id": 228025461,
+      "level": 1,
+      "id": 228025461,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "6.3 域权限维持之DCShadow",
+      "uuid": "TzT2r_ae3QhCzvps",
+      "url": "so2ggxyhe7k2uto5",
+      "prev_uuid": "gS7JNOGQeR_Ckw8Y",
+      "sibling_uuid": "MXPKWAdVel47e9O2",
+      "child_uuid": "",
+      "parent_uuid": "ZfjMjRyxO-ji4NgE",
+      "doc_id": 227650099,
+      "level": 1,
+      "id": 227650099,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "6.2 域权限维持之委派",
+      "uuid": "MXPKWAdVel47e9O2",
+      "url": "htaeszzkcrs1h7u8",
+      "prev_uuid": "TzT2r_ae3QhCzvps",
+      "sibling_uuid": "Fk_sX3GjolOUC6FS",
+      "child_uuid": "",
+      "parent_uuid": "ZfjMjRyxO-ji4NgE",
+      "doc_id": 227527223,
+      "level": 1,
+      "id": 227527223,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "6.1 域权限维持之票据传递",
+      "uuid": "Fk_sX3GjolOUC6FS",
+      "url": "ghbbrqw59axoo0ym",
+      "prev_uuid": "MXPKWAdVel47e9O2",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "ZfjMjRyxO-ji4NgE",
+      "doc_id": 227524896,
+      "level": 1,
+      "id": 227524896,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "第5章 域内漏洞和利用",
+      "uuid": "RcpIJZ-Z7n7PhZMG",
+      "url": "uwxsi6a0pu3034z3",
+      "prev_uuid": "ZfjMjRyxO-ji4NgE",
+      "sibling_uuid": "GNMhDaDCm-VRSoXJ",
+      "child_uuid": "mCCNBr5s4GNBjphr",
+      "parent_uuid": "",
+      "doc_id": 221532406,
+      "level": 0,
+      "id": 221532406,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "5.8 Exchange ProxyShell 攻击利用链",
+      "uuid": "mCCNBr5s4GNBjphr",
+      "url": "xq9ue6rg9333dwea",
+      "prev_uuid": "RcpIJZ-Z7n7PhZMG",
+      "sibling_uuid": "S1nrtpY6FBi_6M4Z",
+      "child_uuid": "",
+      "parent_uuid": "RcpIJZ-Z7n7PhZMG",
+      "doc_id": 227499893,
+      "level": 1,
+      "id": 227499893,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "5.7 Exchange ProxyLogon攻击利用链",
+      "uuid": "S1nrtpY6FBi_6M4Z",
+      "url": "dsc927pgb0b4gzcb",
+      "prev_uuid": "mCCNBr5s4GNBjphr",
+      "sibling_uuid": "ZqjzT0G-LUnwbGtl",
+      "child_uuid": "",
+      "parent_uuid": "RcpIJZ-Z7n7PhZMG",
+      "doc_id": 227345648,
+      "level": 1,
+      "id": 227345648,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "5.6 CVE-2021-42287 权限提升漏洞",
+      "uuid": "ZqjzT0G-LUnwbGtl",
+      "url": "smmwcfbvuhdgi8zg",
+      "prev_uuid": "S1nrtpY6FBi_6M4Z",
+      "sibling_uuid": "I3Vhob71zhuY3vsM",
+      "child_uuid": "",
+      "parent_uuid": "RcpIJZ-Z7n7PhZMG",
+      "doc_id": 226787440,
+      "level": 1,
+      "id": 226787440,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "5.5 ADCS攻击",
+      "uuid": "I3Vhob71zhuY3vsM",
+      "url": "ut1counfay4ux1h4",
+      "prev_uuid": "ZqjzT0G-LUnwbGtl",
+      "sibling_uuid": "mwUoW5jNza_7HSb7",
+      "child_uuid": "",
+      "parent_uuid": "RcpIJZ-Z7n7PhZMG",
+      "doc_id": 225526675,
+      "level": 1,
+      "id": 225526675,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "5.4 Windows Print Spooler权限提升漏洞",
+      "uuid": "mwUoW5jNza_7HSb7",
+      "url": "dsiv5c8164swk3qr",
+      "prev_uuid": "I3Vhob71zhuY3vsM",
+      "sibling_uuid": "r7Dss3jFGd-xIBR0",
+      "child_uuid": "",
+      "parent_uuid": "RcpIJZ-Z7n7PhZMG",
+      "doc_id": 225382055,
+      "level": 1,
+      "id": 225382055,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "5.3 CVE-2020-1472 NetLogon 权限提升漏洞",
+      "uuid": "r7Dss3jFGd-xIBR0",
+      "url": "tuqyhnu61h6di9yx",
+      "prev_uuid": "mwUoW5jNza_7HSb7",
+      "sibling_uuid": "uu0bO1yIoERlPPXE",
+      "child_uuid": "",
+      "parent_uuid": "RcpIJZ-Z7n7PhZMG",
+      "doc_id": 225234501,
+      "level": 1,
+      "id": 225234501,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "5.2 CVE-2019-1040 NTLM MIC绕过漏洞",
+      "uuid": "uu0bO1yIoERlPPXE",
+      "url": "ceduocu5s8opywdo",
+      "prev_uuid": "r7Dss3jFGd-xIBR0",
+      "sibling_uuid": "tNjD4kkr3JyS9QHE",
+      "child_uuid": "",
+      "parent_uuid": "RcpIJZ-Z7n7PhZMG",
+      "doc_id": 222321264,
+      "level": 1,
+      "id": 222321264,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "5.1 MS14-068 权限提升漏洞",
+      "uuid": "tNjD4kkr3JyS9QHE",
+      "url": "uhsu4ogfmgrwpqz8",
+      "prev_uuid": "uu0bO1yIoERlPPXE",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "RcpIJZ-Z7n7PhZMG",
+      "doc_id": 221532413,
+      "level": 1,
+      "id": 221532413,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "第4章 域内渗透手法",
+      "uuid": "GNMhDaDCm-VRSoXJ",
+      "url": "",
+      "prev_uuid": "RcpIJZ-Z7n7PhZMG",
+      "sibling_uuid": "aSNSERAzBpXqL_lw",
+      "child_uuid": "HF_n_1niIjyuJWHW",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "4.11 域林渗透",
+      "uuid": "HF_n_1niIjyuJWHW",
+      "url": "nzzmfd0is8qqp49v",
+      "prev_uuid": "GNMhDaDCm-VRSoXJ",
+      "sibling_uuid": "JjuODI2wuDs8dxhI",
+      "child_uuid": "",
+      "parent_uuid": "GNMhDaDCm-VRSoXJ",
+      "doc_id": 221532468,
+      "level": 1,
+      "id": 221532468,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "4.10 定位用户登陆的主机",
+      "uuid": "JjuODI2wuDs8dxhI",
+      "url": "of6o1kevrpgzhy89",
+      "prev_uuid": "HF_n_1niIjyuJWHW",
+      "sibling_uuid": "WzmaxDUixbNWI9QP",
+      "child_uuid": "",
+      "parent_uuid": "GNMhDaDCm-VRSoXJ",
+      "doc_id": 219621061,
+      "level": 1,
+      "id": 219621061,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "4.9 PTH",
+      "uuid": "WzmaxDUixbNWI9QP",
+      "url": "yr7ilt6t1cnzo18r",
+      "prev_uuid": "JjuODI2wuDs8dxhI",
+      "sibling_uuid": "0l1PKES0g-C_Elkf",
+      "child_uuid": "",
+      "parent_uuid": "GNMhDaDCm-VRSoXJ",
+      "doc_id": 217560746,
+      "level": 1,
+      "id": 217560746,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "4.8 滥用DCSync",
+      "uuid": "0l1PKES0g-C_Elkf",
+      "url": "ngcguguopng1s3br",
+      "prev_uuid": "WzmaxDUixbNWI9QP",
+      "sibling_uuid": "VX4yS4mE7p9Ub4Yq",
+      "child_uuid": "",
+      "parent_uuid": "GNMhDaDCm-VRSoXJ",
+      "doc_id": 217385977,
+      "level": 1,
+      "id": 217385977,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "4.7 NTLM Relay",
+      "uuid": "VX4yS4mE7p9Ub4Yq",
+      "url": "knz646kpqa7abmye",
+      "prev_uuid": "0l1PKES0g-C_Elkf",
+      "sibling_uuid": "0V9JZEF0kGcZoaj2",
+      "child_uuid": "",
+      "parent_uuid": "GNMhDaDCm-VRSoXJ",
+      "doc_id": 216609934,
+      "level": 1,
+      "id": 216609934,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "4.6 Kerberos Bronze Bit 漏洞",
+      "uuid": "0V9JZEF0kGcZoaj2",
+      "url": "ndy0n2xiopggf9ha",
+      "prev_uuid": "VX4yS4mE7p9Ub4Yq",
+      "sibling_uuid": "b8FqiB7Uvm5NC0h-",
+      "child_uuid": "",
+      "parent_uuid": "GNMhDaDCm-VRSoXJ",
+      "doc_id": 216056903,
+      "level": 1,
+      "id": 216056903,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "4.5 委派",
+      "uuid": "b8FqiB7Uvm5NC0h-",
+      "url": "zsskgmu5lk7t56iq",
+      "prev_uuid": "0V9JZEF0kGcZoaj2",
+      "sibling_uuid": "qcHlrMNWD0mj4ZO6",
+      "child_uuid": "",
+      "parent_uuid": "GNMhDaDCm-VRSoXJ",
+      "doc_id": 184244242,
+      "level": 1,
+      "id": 184244242,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "4.4 Kerberoasting",
+      "uuid": "qcHlrMNWD0mj4ZO6",
+      "url": "guglhnlq1osbkcur",
+      "prev_uuid": "b8FqiB7Uvm5NC0h-",
+      "sibling_uuid": "ysmNbVEjtedJ4Dy6",
+      "child_uuid": "",
+      "parent_uuid": "GNMhDaDCm-VRSoXJ",
+      "doc_id": 183687632,
+      "level": 1,
+      "id": 183687632,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "4.3 AS-REP Roasting",
+      "uuid": "ysmNbVEjtedJ4Dy6",
+      "url": "tbhvkm1nnchyeevk",
+      "prev_uuid": "qcHlrMNWD0mj4ZO6",
+      "sibling_uuid": "R5bSBksQaJpBy6Si",
+      "child_uuid": "",
+      "parent_uuid": "GNMhDaDCm-VRSoXJ",
+      "doc_id": 183275609,
+      "level": 1,
+      "id": 183275609,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "4.2 域内密码喷洒",
+      "uuid": "R5bSBksQaJpBy6Si",
+      "url": "kslnymvi5w4tdiq0",
+      "prev_uuid": "ysmNbVEjtedJ4Dy6",
+      "sibling_uuid": "ck49pQvaDJ4ttbLV",
+      "child_uuid": "",
+      "parent_uuid": "GNMhDaDCm-VRSoXJ",
+      "doc_id": 182844844,
+      "level": 1,
+      "id": 182844844,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "4.1 域内用户名枚举",
+      "uuid": "ck49pQvaDJ4ttbLV",
+      "url": "wvzzeggas496dfs2",
+      "prev_uuid": "R5bSBksQaJpBy6Si",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "GNMhDaDCm-VRSoXJ",
+      "doc_id": 182800627,
+      "level": 1,
+      "id": 182800627,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "第3章 域内工具的使用",
+      "uuid": "aSNSERAzBpXqL_lw",
+      "url": "ktpxkn7xw6op5byl",
+      "prev_uuid": "GNMhDaDCm-VRSoXJ",
+      "sibling_uuid": "1u8ixGZ_cwlv5sMw",
+      "child_uuid": "Dx3SvzbUpDmXZ3MO",
+      "parent_uuid": "",
+      "doc_id": 164385515,
+      "level": 0,
+      "id": 164385515,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "3.10 Impacket",
+      "uuid": "Dx3SvzbUpDmXZ3MO",
+      "url": "hn6gy4r62klfoofb",
+      "prev_uuid": "aSNSERAzBpXqL_lw",
+      "sibling_uuid": "X-xbxjbTU8_CcoyH",
+      "child_uuid": "",
+      "parent_uuid": "aSNSERAzBpXqL_lw",
+      "doc_id": 166525128,
+      "level": 1,
+      "id": 166525128,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "3.9 mimikatz",
+      "uuid": "X-xbxjbTU8_CcoyH",
+      "url": "vhyueq0inbh6gfgx",
+      "prev_uuid": "Dx3SvzbUpDmXZ3MO",
+      "sibling_uuid": "x6ZcAiMMSo0JbATg",
+      "child_uuid": "",
+      "parent_uuid": "aSNSERAzBpXqL_lw",
+      "doc_id": 166525040,
+      "level": 1,
+      "id": 166525040,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "3.8 Rubeus",
+      "uuid": "x6ZcAiMMSo0JbATg",
+      "url": "rtt15pku5nel64aa",
+      "prev_uuid": "X-xbxjbTU8_CcoyH",
+      "sibling_uuid": "WQcl4FYZM8nYYY0l",
+      "child_uuid": "",
+      "parent_uuid": "aSNSERAzBpXqL_lw",
+      "doc_id": 164649064,
+      "level": 1,
+      "id": 164649064,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "3.7 Kekeo",
+      "uuid": "WQcl4FYZM8nYYY0l",
+      "url": "exg0055a76ux7s1g",
+      "prev_uuid": "x6ZcAiMMSo0JbATg",
+      "sibling_uuid": "TBnIhie2cgq-uEhx",
+      "child_uuid": "",
+      "parent_uuid": "aSNSERAzBpXqL_lw",
+      "doc_id": 164421070,
+      "level": 1,
+      "id": 164421070,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "3.6 PingCastle",
+      "uuid": "TBnIhie2cgq-uEhx",
+      "url": "picplq1hqwq6xn6l",
+      "prev_uuid": "WQcl4FYZM8nYYY0l",
+      "sibling_uuid": "WVbkCpzH3Tika7cs",
+      "child_uuid": "",
+      "parent_uuid": "aSNSERAzBpXqL_lw",
+      "doc_id": 164420897,
+      "level": 1,
+      "id": 164420897,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "3.5 ldapsearch",
+      "uuid": "WVbkCpzH3Tika7cs",
+      "url": "cwwwy1yvfnn74lz3",
+      "prev_uuid": "TBnIhie2cgq-uEhx",
+      "sibling_uuid": "Dbi0Jdm6seXdR-N5",
+      "child_uuid": "",
+      "parent_uuid": "aSNSERAzBpXqL_lw",
+      "doc_id": 164420783,
+      "level": 1,
+      "id": 164420783,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "3.4 ldp",
+      "uuid": "Dbi0Jdm6seXdR-N5",
+      "url": "ux9a321fs51abfcm",
+      "prev_uuid": "WVbkCpzH3Tika7cs",
+      "sibling_uuid": "T_D9oA1aSJGN418h",
+      "child_uuid": "",
+      "parent_uuid": "aSNSERAzBpXqL_lw",
+      "doc_id": 164420724,
+      "level": 1,
+      "id": 164420724,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "3.3 Admod",
+      "uuid": "T_D9oA1aSJGN418h",
+      "url": "otr5upu06m9fxom5",
+      "prev_uuid": "Dbi0Jdm6seXdR-N5",
+      "sibling_uuid": "LXy5if33EHn5kBsQ",
+      "child_uuid": "",
+      "parent_uuid": "aSNSERAzBpXqL_lw",
+      "doc_id": 164392845,
+      "level": 1,
+      "id": 164392845,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "3.2 Adfind",
+      "uuid": "LXy5if33EHn5kBsQ",
+      "url": "cyk5s9kbarbfcsgo",
+      "prev_uuid": "T_D9oA1aSJGN418h",
+      "sibling_uuid": "Qi-SStDCRFveFP8a",
+      "child_uuid": "",
+      "parent_uuid": "aSNSERAzBpXqL_lw",
+      "doc_id": 164392267,
+      "level": 1,
+      "id": 164392267,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "3.1 BloodHound的使用",
+      "uuid": "Qi-SStDCRFveFP8a",
+      "url": "urbek05lalcek8zd",
+      "prev_uuid": "LXy5if33EHn5kBsQ",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "aSNSERAzBpXqL_lw",
+      "doc_id": 164385661,
+      "level": 1,
+      "id": 164385661,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "第 2 章 域基础知识",
+      "uuid": "1u8ixGZ_cwlv5sMw",
+      "url": "",
+      "prev_uuid": "aSNSERAzBpXqL_lw",
+      "sibling_uuid": "5e6n1hqcrqfMdUY8",
+      "child_uuid": "kglzfqOyfTJ75tx9",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2.10 域中的访问控制列表",
+      "uuid": "kglzfqOyfTJ75tx9",
+      "url": "ht4wu823flgl6q9d",
+      "prev_uuid": "1u8ixGZ_cwlv5sMw",
+      "sibling_uuid": "xwO_OhFg8XfhkJYp",
+      "child_uuid": "",
+      "parent_uuid": "1u8ixGZ_cwlv5sMw",
+      "doc_id": 164361677,
+      "level": 1,
+      "id": 164361677,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2.9 域中的组策略",
+      "uuid": "xwO_OhFg8XfhkJYp",
+      "url": "rr35aqufxc7ngkkm",
+      "prev_uuid": "kglzfqOyfTJ75tx9",
+      "sibling_uuid": "hYdny00SKdLkph8_",
+      "child_uuid": "",
+      "parent_uuid": "1u8ixGZ_cwlv5sMw",
+      "doc_id": 159452365,
+      "level": 1,
+      "id": 159452365,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2.8 服务主体名称",
+      "uuid": "hYdny00SKdLkph8_",
+      "url": "blc9fltvtgumdlx0",
+      "prev_uuid": "xwO_OhFg8XfhkJYp",
+      "sibling_uuid": "i544kCif2x_F_Kkv",
+      "child_uuid": "",
+      "parent_uuid": "1u8ixGZ_cwlv5sMw",
+      "doc_id": 159411865,
+      "level": 1,
+      "id": 159411865,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2.7 目录分区",
+      "uuid": "i544kCif2x_F_Kkv",
+      "url": "ksxzdgp5vlf75usr",
+      "prev_uuid": "hYdny00SKdLkph8_",
+      "sibling_uuid": "Avey5TVa_wT_7qrp",
+      "child_uuid": "",
+      "parent_uuid": "1u8ixGZ_cwlv5sMw",
+      "doc_id": 159314595,
+      "level": 1,
+      "id": 159314595,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2.6 本地组和域组",
+      "uuid": "Avey5TVa_wT_7qrp",
+      "url": "velfrfcm52bfbxtz",
+      "prev_uuid": "i544kCif2x_F_Kkv",
+      "sibling_uuid": "Jmg3jtAhKurU3uLc",
+      "child_uuid": "",
+      "parent_uuid": "1u8ixGZ_cwlv5sMw",
+      "doc_id": 158941380,
+      "level": 1,
+      "id": 158941380,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2.5 本地用户和活动目录账号",
+      "uuid": "Jmg3jtAhKurU3uLc",
+      "url": "blk9c4ogd4dhv665",
+      "prev_uuid": "Avey5TVa_wT_7qrp",
+      "sibling_uuid": "kAZOTH0qU-dSODwH",
+      "child_uuid": "",
+      "parent_uuid": "1u8ixGZ_cwlv5sMw",
+      "doc_id": 158940585,
+      "level": 1,
+      "id": 158940585,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2.4 SSL LDAP搭建",
+      "uuid": "kAZOTH0qU-dSODwH",
+      "url": "qy4ig5bpzm77pw3y",
+      "prev_uuid": "Jmg3jtAhKurU3uLc",
+      "sibling_uuid": "wFhXCtcnfn-ylMzZ",
+      "child_uuid": "",
+      "parent_uuid": "1u8ixGZ_cwlv5sMw",
+      "doc_id": 158940438,
+      "level": 1,
+      "id": 158940438,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2.3域信任",
+      "uuid": "wFhXCtcnfn-ylMzZ",
+      "url": "tgg17gpuppzo0icl",
+      "prev_uuid": "kAZOTH0qU-dSODwH",
+      "sibling_uuid": "m6YMtN6kDBbXcYSV",
+      "child_uuid": "",
+      "parent_uuid": "1u8ixGZ_cwlv5sMw",
+      "doc_id": 158485284,
+      "level": 1,
+      "id": 158485284,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2.2 工作组和域",
+      "uuid": "m6YMtN6kDBbXcYSV",
+      "url": "ed3lgbygi12covn5",
+      "prev_uuid": "wFhXCtcnfn-ylMzZ",
+      "sibling_uuid": "nd3HhKz86UArgo1Q",
+      "child_uuid": "",
+      "parent_uuid": "1u8ixGZ_cwlv5sMw",
+      "doc_id": 158481674,
+      "level": 1,
+      "id": 158481674,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2.1 域常见名词",
+      "uuid": "nd3HhKz86UArgo1Q",
+      "url": "oxmhyaqo882euzr6",
+      "prev_uuid": "m6YMtN6kDBbXcYSV",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "1u8ixGZ_cwlv5sMw",
+      "doc_id": 158480448,
+      "level": 1,
+      "id": 158480448,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "第1章 Windows协议",
+      "uuid": "5e6n1hqcrqfMdUY8",
+      "url": "qln3icdeyup6bvku",
+      "prev_uuid": "1u8ixGZ_cwlv5sMw",
+      "sibling_uuid": "",
+      "child_uuid": "pQTu6R_bjRaQmYu5",
+      "parent_uuid": "",
+      "doc_id": 158021854,
+      "level": 0,
+      "id": 158021854,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "1.3 LDAP",
+      "uuid": "pQTu6R_bjRaQmYu5",
+      "url": "fw196zbug12hgz6l",
+      "prev_uuid": "5e6n1hqcrqfMdUY8",
+      "sibling_uuid": "nkoxEJtulsJ8bWy_",
+      "child_uuid": "",
+      "parent_uuid": "5e6n1hqcrqfMdUY8",
+      "doc_id": 158368260,
+      "level": 1,
+      "id": 158368260,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "1.2 Kerberos协议",
+      "uuid": "nkoxEJtulsJ8bWy_",
+      "url": "wmzv3a8pqacozu6c",
+      "prev_uuid": "pQTu6R_bjRaQmYu5",
+      "sibling_uuid": "IBzYJC_cpqsGhltn",
+      "child_uuid": "",
+      "parent_uuid": "5e6n1hqcrqfMdUY8",
+      "doc_id": 158270283,
+      "level": 1,
+      "id": 158270283,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "1.1 LM、NTLM协议",
+      "uuid": "IBzYJC_cpqsGhltn",
+      "url": "iw3dv0e77b7f9ksg",
+      "prev_uuid": "nkoxEJtulsJ8bWy_",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "5e6n1hqcrqfMdUY8",
+      "doc_id": 158021858,
+      "level": 1,
+      "id": 158021858,
+      "open_window": 1,
+      "visible": 1
+    }
+  ]
+}
