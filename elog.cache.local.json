@@ -91,12 +91,16 @@
     {
       "id": 158368260,
       "doc_id": "fw196zbug12hgz6l",
-      "updated": 1755622595000,
+      "updated": 1755632902000,
       "properties": {
         "title": "1.3 LDAP",
         "urlname": "fw196zbug12hgz6l",
         "date": "2024-02-08 16:33:10",
-        "updated": "2025-08-20 00:56:35"
+        "updated": "2025-08-20 03:48:22",
+        "categories": "域渗透攻防指南笔记",
+        "tags": "内网安全",
+        "publish": true,
+        "autoExcerpt": true
       },
       "catalog": [
         {
@@ -176,12 +180,12 @@
     {
       "id": 228469656,
       "doc_id": "xfntbqz0sot6zr31",
-      "updated": 1753223322000,
+      "updated": 1755632956000,
       "properties": {
         "title": "6.11 后渗透密码收集之注入SSP",
         "urlname": "xfntbqz0sot6zr31",
         "date": "2025-07-17 20:05:55",
-        "updated": "2025-07-23 06:28:42",
+        "updated": "2025-08-20 03:49:16",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/2420162/1752754233600-5c134579-f3ff-4580-8a37-67055aa253f9.png"
       },
       "catalog": [
