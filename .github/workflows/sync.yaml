@@ -37,10 +37,6 @@ jobs:
           HALO_ENDPOINT: ${{ secrets.HALO_ENDPOINT }}
           HALO_TOKEN: ${{ secrets.HALO_TOKEN }}
           HALO_POLICY_NAME: ${{ secrets.HALO_POLICY_NAME }}
-          OSS_SECRET_ID: ${{ secrets.OSS_SECRET_ID }}
-          OSS_SECRET_KEY: ${{ secrets.OSS_SECRET_KEY }}
-          OSS_BUCKET: ${{ secrets.OSS_BUCKET }}
-          OSS_REGION: ${{ secrets.OSS_REGION }}
         run: |
           npm run sync:local
           npm run sync:halo
