@@ -44,8 +44,8 @@ jobs:
 
       - name: 配置Git用户名邮箱
         run: |
-          git config --global user.name "flionay"
-          git config --global user.email "angyi_jq@163.com"
+          git config --global user.name "linvery"
+          git config --global user.email "3356865+Linvery@users.noreply.github.com"
 
       - name: 提交拉取的文档到GitHub仓库
         run: |
@@ -56,4 +56,4 @@ jobs:
       - name: 推送文档到仓库
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
