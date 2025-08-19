@@ -66,13 +66,17 @@
     {
       "id": 158270283,
       "doc_id": "wmzv3a8pqacozu6c",
-      "updated": 1755622588000,
+      "updated": 1755627514000,
       "properties": {
         "title": "1.2 Kerberos协议",
         "urlname": "wmzv3a8pqacozu6c",
         "date": "2024-02-06 23:08:02",
-        "updated": "2025-08-20 00:56:28",
-        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1707232884067-8e1745f7-4803-4bd9-a0f3-6ac8666e607e.png"
+        "updated": "2025-08-20 02:18:34",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1707232884067-8e1745f7-4803-4bd9-a0f3-6ac8666e607e.png",
+        "categories": "域渗透攻防指南笔记",
+        "tags": "内网安全",
+        "publish": true,
+        "autoExcerpt": true
       },
       "catalog": [
         {
@@ -127,13 +131,17 @@
     {
       "id": 158021858,
       "doc_id": "iw3dv0e77b7f9ksg",
-      "updated": 1755622584000,
+      "updated": 1755627507000,
       "properties": {
         "title": "1.1 LM、NTLM协议",
         "urlname": "iw3dv0e77b7f9ksg",
         "date": "2024-02-04 02:10:55",
-        "updated": "2025-08-20 00:56:24",
-        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1707032196574-dcd994a2-899c-4ca0-a78d-5baca34c01a6.png"
+        "updated": "2025-08-20 02:18:27",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2420162/1707032196574-dcd994a2-899c-4ca0-a78d-5baca34c01a6.png",
+        "categories": "域渗透攻防指南笔记",
+        "tags": "内网安全",
+        "publish": true,
+        "autoExcerpt": true
       },
       "catalog": [
         {

@@ -96,14 +96,18 @@
     {
       "id": 158270283,
       "doc_id": "wmzv3a8pqacozu6c",
-      "updated": 1755622588000,
+      "updated": 1755627514000,
       "properties": {
         "title": "1.2 Kerberos协议",
         "urlname": "wmzv3a8pqacozu6c",
         "date": "2024-02-06 23:08:02",
-        "updated": "2025-08-20 00:56:28",
+        "updated": "2025-08-20 02:18:34",
         "cover": "/upload/b784e385ed676c7939f19b4ea847.png",
-        "description": "categories: 域渗透攻防指南笔记 tags: 内网安全 publish: true autoExcerpt: true参考链接：1、https://144.one/kerberosxie-yi-fen-xi.html基础特性：1、Kerberos使用TCP/UDP 88端口进行认证，..."
+        "description": "categories: 域渗透攻防指南笔记 tags: 内网安全 publish: true autoExcerpt: true参考链接：1、https://144.one/kerberosxie-yi-fen-xi.html基础特性：1、Kerberos使用TCP/UDP 88端口进行认证，...",
+        "categories": "域渗透攻防指南笔记",
+        "tags": "内网安全",
+        "publish": true,
+        "autoExcerpt": true
       },
       "catalog": [
         {
@@ -133,14 +137,18 @@
     {
       "id": 158021858,
       "doc_id": "iw3dv0e77b7f9ksg",
-      "updated": 1755622584000,
+      "updated": 1755627507000,
       "properties": {
         "title": "1.1 LM、NTLM协议",
         "urlname": "iw3dv0e77b7f9ksg",
         "date": "2024-02-04 02:10:55",
-        "updated": "2025-08-20 00:56:24",
+        "updated": "2025-08-20 02:18:27",
         "cover": "/upload/777069d9d7bc5db21f1318288933.png",
-        "description": "categories: 域渗透攻防指南笔记 tags: 内网安全 publish: true autoExcerpt: trueSSPI和SSPSSPI（Security Support Provider Interface）是一种安全支持提供程序接口，用于在Windows平台上实现安全相关功..."
+        "description": "categories: 域渗透攻防指南笔记 tags: 内网安全 publish: true autoExcerpt: trueSSPI和SSPSSPI（Security Support Provider Interface）是一种安全支持提供程序接口，用于在Windows平台上实现安全相关功...",
+        "categories": "域渗透攻防指南笔记",
+        "tags": "内网安全",
+        "publish": true,
+        "autoExcerpt": true
       },
       "catalog": [
         {
