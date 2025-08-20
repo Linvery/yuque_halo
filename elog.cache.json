@@ -100,15 +100,15 @@
     {
       "id": 158270283,
       "doc_id": "wmzv3a8pqacozu6c",
-      "updated": 1755627514000,
+      "updated": 1755669972000,
       "properties": {
         "title": "1.2 Kerberos协议",
         "urlname": "wmzv3a8pqacozu6c",
         "date": "2024-02-06 23:08:02",
-        "updated": "2025-08-20 02:18:34",
+        "updated": "2025-08-20 14:06:12",
         "cover": "/upload/b784e385ed676c7939f19b4ea847.png",
-        "description": "categories: 域渗透攻防指南笔记 tags: 内网安全 publish: true autoExcerpt: true参考链接：1、https://144.one/kerberosxie-yi-fen-xi.html基础特性：1、Kerberos使用TCP/UDP 88端口进行认证，...",
-        "categories": "域渗透攻防指南笔记",
+        "description": "categories: 第1章 Windows协议 tags: 内网安全 publish: true autoExcerpt: true参考链接：1、https://144.one/kerberosxie-yi-fen-xi.html基础特性：1、Kerberos使用TCP/UDP 88端口进...",
+        "categories": "第1章 Windows协议",
         "tags": "内网安全",
         "publish": true,
         "autoExcerpt": true
@@ -141,15 +141,15 @@
     {
       "id": 158021858,
       "doc_id": "iw3dv0e77b7f9ksg",
-      "updated": 1755627507000,
+      "updated": 1755669977000,
       "properties": {
         "title": "1.1 LM、NTLM协议",
         "urlname": "iw3dv0e77b7f9ksg",
         "date": "2024-02-04 02:10:55",
-        "updated": "2025-08-20 02:18:27",
+        "updated": "2025-08-20 14:06:17",
         "cover": "/upload/777069d9d7bc5db21f1318288933.png",
-        "description": "categories: 域渗透攻防指南笔记 tags: 内网安全 publish: true autoExcerpt: trueSSPI和SSPSSPI（Security Support Provider Interface）是一种安全支持提供程序接口，用于在Windows平台上实现安全相关功...",
-        "categories": "域渗透攻防指南笔记",
+        "description": "categories: 第1章 Windows协议 tags: 内网安全 publish: true autoExcerpt: trueSSPI和SSPSSPI（Security Support Provider Interface）是一种安全支持提供程序接口，用于在Windows平台上实现安...",
+        "categories": "第1章 Windows协议",
         "tags": "内网安全",
         "publish": true,
         "autoExcerpt": true
@@ -164,12 +164,12 @@
     {
       "id": 228469656,
       "doc_id": "xfntbqz0sot6zr31",
-      "updated": 1755632956000,
+      "updated": 1755633152000,
       "properties": {
         "title": "6.11 后渗透密码收集之注入SSP",
         "urlname": "xfntbqz0sot6zr31",
         "date": "2025-07-17 20:05:55",
-        "updated": "2025-08-20 03:49:16",
+        "updated": "2025-08-20 03:52:32",
         "cover": "/upload/457ade4e01d93ae8f2cf39611d43.png",
         "description": "可以自己写一个SSP，恶意SSP在系统登录的时候，获取到用户输入的明文密码一、mimikatz 注入伪造的SSP1、内存注入SSPC:\\Users\\Administrator.SEC\\Desktop\\x64&gt;mimikatz.exe    .#####.   mimikatz 2.2.0 (x..."
       },
